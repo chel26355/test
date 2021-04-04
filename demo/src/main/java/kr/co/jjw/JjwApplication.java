@@ -1,4 +1,4 @@
-package kr.co.jjw.demo;
+package kr.co.jjw;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
